@@ -1,3 +1,4 @@
+
 # Student Management System (MERN)
 
 A full-stack, database-backed admin app: **MongoDB + Express + React (Vite) + Node.js**.
@@ -282,3 +283,7 @@ Start MongoDB, the API and the client, then in the browser:
 | client | `npm run dev` | Vite dev server (5173) |
 | client | `npm run build` | Production build to `client/dist` |
 | client | `npm run preview` | Preview the production build |
+
+# student_management_system
+MERN application
+
